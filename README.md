@@ -27,8 +27,4 @@ WITH LEGENDの公式サイト用リポジトリ。
    open('index.html','w',encoding='utf-8').write(html)
    "
    ```
-3. `git push` するとVercelが自動でデプロイする
 
-## デプロイ
-
-Vercelと連携済み（GitHub連携、`main`ブランチへのpushで自動デプロイ）。
